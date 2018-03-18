@@ -3,6 +3,6 @@
 <br><br>
 hi
 <center>
-<?php echo "HI ALL" ?><center>
+<?php echo getenv("environment"); ?></center>
 </body>
 </html>
